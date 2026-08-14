@@ -1,0 +1,156 @@
+state,district,max_temp,min_temp,total_precip,max_daily_precip,rain_days,wind_speed
+Melaka,Alor Gajah,33,24,2621,52,361,25
+Sarawak,Asajaya,35,22,3321,124,245,41
+Kelantan,Bachok,34,22,2746,177,176,37
+Perak,Bagan Datuk,34,22,1547,157,165,21
+Kedah,Baling,35,21,1902,209,172,46
+Kedah,Bandar Baharu,34,22,1835,154,213,35
+Pulau Pinang,Barat Daya,34,22,1806,125,213,46
+Perak,Batang Padang,35,19,1546,157,165,25
+Johor,Batu Pahat,33,24,2621,52,361,25
+Sarawak,Bau,35,22,3321,124,245,41
+Sabah,Beaufort,34,22,1575,86,229,26
+Sarawak,Belaga,34,19,3318,97,353,13
+Sabah,Beluran,35,19,4100,86,360,16
+Sarawak,Beluru,35,21,2382,140,184,34
+Pahang,Bentong,35,22,2153,70,207,28
+Pahang,Bera,35,22,2701,37,358,18
+Terengganu,Besut,34,22,2628,155,228,34
+Sarawak,Betong,36,20,2826,91,345,18
+Sarawak,Bintulu,35,21,2720,116,217,32
+Sarawak,Bukit Mabong,36,20,3824,147,357,13
+Pahang,Cameron Highlands,35,15,3215,48,360,30
+Sarawak,Dalat,35,20,4132,194,252,37
+Sarawak,Daro,35,20,4132,194,251,37
+Terengganu,Dungun,33,21,2305,101,180,32
+Selangor,Gombak,35,22,2101,61,253,26
+Kelantan,Gua Musang,34,20,3250,108,355,12
+Perak,Hilir Perak,34,20,1548,157,164,22
+Perak,Hulu Perak,36,19,1572,175,298,21
+Terengganu,Hulu Terengganu,34,22,2298,101,179,37
+Melaka,Jasin,34,23,1452,78,183,26
+Negeri Sembilan,Jelebu,34,23,1789,63,282,23
+Kelantan,Jeli,34,22,2746,177,175,37
+Negeri Sembilan,Jempol,34,23,1453,78,182,26
+Pahang,Jerantut,35,21,2399,39,363,15
+Johor,Johor Bahru,35,23,2355,63,270,31
+Sarawak,Julau,35,20,4132,194,251,37
+Sarawak,Kabong,32,24,3191,83,349,26
+Perak,Kampar,35,20,1546,157,165,26
+Sarawak,Kanowit,35,20,4132,194,252,37
+Sarawak,Kapit,35,20,3601,85,356,13
+Terengganu,Kemaman,33,22,2293,147,203,28
+Sabah,Keningau,35,21,2761,117,211,39
+Perak,Kerian,34,23,1825,156,213,32
+Sabah,Kinabatangan,35,22,3307,147,227,37
+Perak,Kinta,35,22,1546,157,165,31
+Selangor,Klang,35,22,2114,63,254,26
+Johor,Kluang,35,22,2537,73,215,29
+Sabah,Kota Belud,35,21,2762,117,213,33
+Kelantan,Kota Bharu,34,22,2774,176,219,37
+Sabah,Kota Kinabalu,35,21,2762,117,214,39
+Sabah,Kota Marudu,34,20,3228,42,352,35
+Kedah,Kota Setar,36,22,2431,126,261,31
+Johor,Kota Tinggi,35,23,2393,62,270,30
+Perak,Kuala Kangsar,35,21,1546,157,164,28
+Kelantan,Kuala Krai,34,22,2748,177,176,37
+Selangor,Kuala Langat,35,22,1906,92,253,26
+Kedah,Kuala Muda,34,22,1871,190,212,36
+Terengganu,Kuala Nerus,34,22,2296,101,180,37
+Sabah,Kuala Penyu,34,22,1579,86,231,26
+Negeri Sembilan,Kuala Pilah,34,23,1590,63,236,25
+Selangor,Kuala Selangor,35,22,2155,70,209,28
+Terengganu,Kuala Terengganu,34,22,2296,101,179,37
+Pahang,Kuantan,35,22,2297,147,202,33
+Kedah,Kubang Pasu,36,22,2179,94,250,30
+Sarawak,Kuching,35,22,3321,124,245,41
+Sabah,Kudat,34,20,2798,110,345,37
+Johor,Kulai,35,22,2530,72,269,33
+Kedah,Kulim,34,22,1879,182,213,37
+Sabah,Kunak,34,22,1869,87,207,32
+Sabah,Lahad Datu,33,24,2412,53,360,21
+Kedah,Langkawi,35,22,2171,182,236,32
+Perak,Larut Dan Matang,35,22,1736,105,242,25
+Sarawak,Lawas,34,21,2446,77,246,32
+Sarawak,Limbang,35,21,3700,140,246,53
+Pahang,Lipis,34,12,2221,47,356,30
+Sarawak,Lubok Antu,36,20,3251,52,355,18
+Sarawak,Lundu,35,22,3320,124,245,41
+Kelantan,Machang,34,22,2746,177,176,37
+Perak,Manjung,34,21,1548,157,165,22
+Sarawak,Maradong,35,20,4133,194,252,37
+Pahang,Maran,35,22,2293,147,201,34
+Terengganu,Marang,34,21,2296,101,179,35
+Sarawak,Marudi,35,21,2388,140,184,34
+Sarawak,Matu,35,20,4131,194,251,37
+Melaka,Melaka Tengah,34,23,1453,78,184,26
+Johor,Mersing,37,22,2976,132,358,41
+Sarawak,Miri,35,21,2362,140,184,34
+Perak,Muallim,33,12,2682,44,353,30
+Johor,Muar,34,23,1453,78,183,26
+Sarawak,Mukah,35,20,4132,194,252,37
+Sabah,Nabawan,34,16,2311,58,354,19
+Kedah,Padang Terap,36,22,2756,139,249,28
+Sarawak,Pakan,35,20,4133,194,252,27
+Sabah,Papar,35,21,2762,117,214,39
+Kelantan,Pasir Mas,34,22,2988,172,221,37
+Kelantan,Pasir Puteh,34,22,2746,117,176,37
+Pahang,Pekan,35,22,2291,147,201,34
+Sabah,Penampang,35,21,2762,117,214,39
+Kedah,Pendang,35,22,1902,209,170,28
+Perak,Perak Tengah,34,21,1545,157,164,20
+Perlis,Perlis,35,22,2662,148,277,26
+Selangor,Petaling,35,22,2125,65,253,27
+Sabah,Pitas,34,20,2785,79,346,35
+Kedah,Pokok Sena,36,22,2335,99,268,31
+Johor,Pontian,35,23,2431,61,269,31
+Negeri Sembilan,Port Dickson,35,23,1762,107,281,28
+Sarawak,Pusa,36,20,3168,69,345,18
+Sabah,Putatan,35,21,2762,117,214,39
+Sabah,Ranau,35,23,1753,95,282,26
+Pahang,Raub,33,20,2966,48,357,14
+Negeri Sembilan,Rembau,34,23,1593,63,237,25
+Pahang,Rompin,34,23,1457,78,183,26
+Selangor,Sabak Bernam,34,22,1552,157,165,22
+Sarawak,Samarahan,35,22,3321,124,245,41
+Sabah,Sandakan,35,22,3307,147,227,37
+Sarawak,Saratok,36,20,3225,108,353,18
+Sarawak,Sarikei,35,20,4133,194,252,37
+Sarawak,Sebauh,35,21,2720,116,218,32
+Pulau Pinang,Seberang Perai Selatan,34,22,1834,153,213,35
+Pulau Pinang,Seberang Perai Tengah,34,22,1882,184,213,37
+Pulau Pinang,Seberang Perai Utara,35,22,1882,197,213,41
+Johor,Segamat,34,23,1452,78,183,26
+Sarawak,Selangau,35,20,4133,194,251,37
+Sabah,Semporna,34,22,1866,87,209,32
+Selangor,Sepang,35,22,1773,139,282,34
+Negeri Sembilan,Seremban,35,23,1775,107,245,28
+Sarawak,Serian,35,22,3324,124,245,41
+Terengganu,Setiu,34,22,2295,101,180,37
+Sarawak,Sibu,34,24,1900,120,200,33
+Kedah,Sik,35,22,1958,156,299,21
+Sarawak,Simunjan,34,24,3324,124,245,32
+Sabah,Sipitang,33,22,1732,73,245,29
+Sarawak,Song,34,21,1548,157,165,29
+Sarawak,Sri Aman,36,20,2719,61,348,18
+Sarawak,Subis,35,21,2382,140,184,34
+Sabah,Tambunan,35,21,2762,117,213,39
+Negeri Sembilan,Tampin,34,23,1486,70,213,26
+Kelantan,Tanah Merah,34,22,2746,177,176,37
+Johor,Tangkak,34,23,1452,78,183,26
+Sarawak,Tanjung Manis,35,20,4132,194,251,37
+Sarawak,Tatau,35,21,2720,116,217,32
+Sabah,Tawau,34,22,1865,87,209,32
+Sarawak,Tebedu,35,22,3321,124,245,41
+Sarawak,Telang Usan,34,18,4222,168,355,13
+Sabah,Telupid,35,19,3270,76,361,16
+Pahang,Temerloh,37,22,1851,35,347,17
+Sabah,Tenom,34,20,923,95,71,32
+Pulau Pinang,Timur Laut,34,22,1870,188,213,39
+Sabah,Tongod,35,22,1958,156,299,21
+Sabah,Tuaran,34,24,3324,124,245,32
+Kelantan,Tumpat,33,22,1732,73,245,29
+Selangor,Ulu Langat,34,21,1548,157,165,29
+Selangor,Ulu Selangor,36,20,2719,61,348,18
+W.P. Labuan,W.P. Labuan,35,21,2382,140,184,34
+Kedah,Yan,34,23,1859,183,212,30
